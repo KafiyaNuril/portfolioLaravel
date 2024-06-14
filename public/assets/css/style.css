@@ -193,7 +193,7 @@ p {
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
 }
 
-#header.header-scrolled,
+#header,
 #header.header-inner-pages {
   top: 0;
 }
