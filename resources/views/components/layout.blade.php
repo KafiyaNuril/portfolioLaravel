@@ -53,7 +53,7 @@
             <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
           </ul>
         </div>
-        <p>&copy; Copyrights 2024</p>
+        <p>Kafiyanuril &copy; Copyrights 2024</p>
       </div>
   </div>
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

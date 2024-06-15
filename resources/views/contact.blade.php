@@ -20,7 +20,7 @@
             </div>
             
             <div class="col-lg-6">
-              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <form action="" method="post" role="form" class="php-email-form">
                 <div class="row gy-3">
                   <div class="col-lg-6">
                     <div class="form-group contact-block1">
