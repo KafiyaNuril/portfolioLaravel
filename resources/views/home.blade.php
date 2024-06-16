@@ -13,11 +13,9 @@
           </div>
           <div class="col-lg-7">
             <div class="about-descr">
-              <h1 style="font-family: 'Playfair Display', serif;">Hello!!</h1>
-              <p class="p-heading">im Kafiya Nuril Kautsar<br> as ux /ui designer based who loves clean,<br>simple & unique design.</p>
-              <p class="separator"> i also enjoy crafting brand identities, icons, & ilustration work.<br>
-                Now, I'm study in Wikrama Vocational High School.
-              </p>
+              <h1 style="font-family: 'Playfair Display', serif;">Hello Everyone!!</h1>
+              <p class="p-heading">I am Kafiya Nuril Kautsar,<br>a student from Wikrama Vocational High School.</p>
+              <p class="separator">let's see my portfolio as a UI/UX designer and Front end developer</p>
             </div>
           </div>
         </div>
