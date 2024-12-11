@@ -33,7 +33,6 @@
           <ul>
             <li><a class="nav-link" href="/">Home</a></li>
             <li><a class="nav-link" href="/project">Project</a></li>
-            <li><a class="nav-link" href="/contact">Contact</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>
@@ -44,16 +43,23 @@
       {{ $slot }}
   </main>
 
-  <div id="footer" class="text-center">
-      <div class="container">
-        <div class="socials-media text-center">
-          <ul class="list-unstyled">
-            <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-            <li><a href="https://www.instagram.com/lavieartcque/"><i class="bi bi-instagram"></i></a></li>
-            <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
-          </ul>
+  <div id="footer">
+        <hr>
+    <div class="container mt-5">
+        <div class="socials-media d-flex justify-content-around">
+            <ul class="contact-details row">
+                <li><span>jln. Pertanian PPMKP Desa Bendungan</span></li>
+                <li><span>Kec. Ciawi, Kab. Bogor, Indonesia</span></li>
+                <li><span>+62 89516875989</span></li>
+                <li><span>kafiyanurilkautsar@smkwikrama.sch.id</span></li>
+            </ul>
+            <ul class="list-unstyled d-flex">
+                <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+                <li><a href="https://www.instagram.com/lavieartcque/"><i class="bi bi-instagram"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/kafiyanuril-756a30320/"><i class="bi bi-linkedin"></i></a></li>
+            </ul>
         </div>
-        <p>Kafiyanuril &copy; Copyrights 2024</p>
+        <p class="text-center">Kafiyanuril &copy; Portofolio 2024</p>
       </div>
   </div>
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

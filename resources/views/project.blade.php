@@ -82,6 +82,15 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <img src="assets/img/portfolio/Screenshot 2024-12-11 114734.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Apotek</h4>
+              <p>Data dan pemebelian Obat</p>
+              <a href="https://kafiyanuril.github.io/apotek/" class="details-link" ><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>

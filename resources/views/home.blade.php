@@ -25,38 +25,29 @@
     <div id="services">
       <div class="container">
         <div class="services-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
+          <div class="swiper-wrapper d-flex justify-content-center">
             <div class="swiper-slide">
               <div class="services-block">
                 <i class="bi bi-briefcase"></i>
                 <span>UI/UX DESIGN</span>
-                <p class="separator">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p class="separator">Figma</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="services-block">
                 <i class="bi bi-bar-chart"></i>
                 <span>WEB DESIGN</span>
-                <p class="separator">Make a web with Html, Css, Js, bootstrap</p>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="services-block">
-                <i class="bi bi-brightness-high"></i>
-                <span>Back End</span>
-                <p class="separator">Learn Js, PHP, Laravel</p>
+                <p class="separator">Make a web with Html, Css(Bootstrap & Tailwind) Js</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="services-block">
                 <i class="bi bi-calendar4-week"></i>
-                <span>PHOTOGRAPHY</span>
-                <p class="separator">like a photography</p>
+                <span>Colaboration</span>
+                <p class="separator">Github & Trello</p>
               </div>
             </div>
           </div>
-          <div class="swiper-pagination"></div>
         </div>
       </div>
     </div><br><br>
@@ -97,7 +88,7 @@
           <h2>journal</h2>
         </div>
       </div>
-      
+
       <div class="container">
         <div class="journal-block">
           <div class="row">
